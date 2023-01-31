@@ -1,5 +1,5 @@
 
-# Introduction_to_Point_Cloud_02
+# Introduction to Point Cloud 02
 
 In this Lession we will learn the General info about Point Cloud Processing 
 
