@@ -1,5 +1,5 @@
 
-# Introduction_to_Point_Cloud_01
+# Introduction_to_Point_Cloud_02
 
 In this Lession we will learn the General info about Point Cloud Processing 
 
@@ -8,7 +8,7 @@ In this Lession we will learn the General info about Point Cloud Processing
 * Numpy
 
 # Video Tutorial
--  [Lesson 01 Video ](https://www.youtube.com/watch?v=CO_oSkTKdt8)
+-  [Lesson 02 Video ](https://www.youtube.com/watch?v=N4TPMCl8P5Q)
 
 
 
@@ -21,5 +21,7 @@ In this Lession we will learn the General info about Point Cloud Processing
 
  - [3D Models](http://graphics.im.ntu.edu.tw/~robin/courses/cg03/model/)
  - [Chayma Zatout Repo](https://github.com/Chim-SO/pointcloudprocessing#requirements)
-
+ - [A study of microsoft kinect calibration](https://cs.gmu.edu/~xzhou10/doc/kinect-study.pdf)
+ - [Camera Calibration](https://docs.opencv.org/4.6.0/dc/dbb/tutorial_py_calibration.html)
+ - [NYU Depth Dataset V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 
