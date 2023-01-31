@@ -19,8 +19,10 @@ In this Lession we will learn the General info about Point Cloud Processing
 
 ## Acknowledgements
 
- - [3D Models](http://graphics.im.ntu.edu.tw/~robin/courses/cg03/model/)
  - [Chayma Zatout Repo](https://github.com/Chim-SO/pointcloudprocessing#requirements)
+
+
+## References
  - [A study of microsoft kinect calibration](https://cs.gmu.edu/~xzhou10/doc/kinect-study.pdf)
  - [Camera Calibration](https://docs.opencv.org/4.6.0/dc/dbb/tutorial_py_calibration.html)
  - [NYU Depth Dataset V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
